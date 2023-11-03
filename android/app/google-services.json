@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438718115",
+    "project_id": "bong-chat-24ca5",
+    "storage_bucket": "bong-chat-24ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438718115:android:58fac01e245632248df916",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLiYcorWS1qyzg3mNEtbMgFstR9g_K6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
